@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "abcdefgh!" << std::endl;
+    std::cout << "abcdefg!" << std::endl;
     return 0;
 }
